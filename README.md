@@ -1,0 +1,3 @@
+I used the python Requests library  for sending HTTP requests to do the Api call in Github. After I got the files users and repositories, i do most of the data analysis using the pandas library in python.I do some of the analysis in Excel also.
+The most interesting thing I got from the analysis is, when i tried to see the relation between the length of the bio users wrote to the number of followers he has. In my analysis i used the regression slope to find the relation.
+And the values turns out to be roughly 48, that for every extra word of length 48 followers will increase.But after seeing the data i think that it doesn’t necessarily mean that writing longer bios causes an increase in followers. Other factors  could also influence follower counts.
